@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236291254141",
+    "project_id": "alunos-firestore-6a719",
+    "storage_bucket": "alunos-firestore-6a719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236291254141:android:04e9a2576fb0e5ed96ce14",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.dmo.alunosfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtrhT5GIyAC5L0YHu_8CCrZUBKv4ihII4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
